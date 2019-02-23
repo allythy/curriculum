@@ -63,6 +63,10 @@ h2 {
   color: #080B10;
 }
 
+.year-margin {
+  margin: 10px 0 10px 0;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase;
